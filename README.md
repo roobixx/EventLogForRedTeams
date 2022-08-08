@@ -1,5 +1,8 @@
 ***Unintelligent Code can be found here***
 
+## Blog Post ##
+https://www.blackhillsinfosec.com/windows-event-logs-for-red-teams/
+
 
 EventLogForRedTeams is a proof-of-concept for showing how a malicious payload can be stored in a Windows event log entry and later retrieved for execution. This technique is not original, and was first discussed here: https://threatpost.com/attackers-use-event-logs-to-hide-fileless-malware/179484/ and https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/
  
